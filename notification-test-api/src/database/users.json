@@ -1,0 +1,37 @@
+{
+    "users": [
+        {
+            "id": "1",
+            "name": "Jesus Francisco",
+            "email": "mail@mail.com",
+            "phoneNumber":"3310203040",
+            "subscribed": ["sports", "finance", "movies"],
+            "channels": ["SMS", "EMAIL","PUSHNOTIFICATIONS"]
+        },
+        {
+            "id": "2",
+            "name": "Maria Carolina",
+            "email": "mailtest@mail.com",
+            "phoneNumber":"3340509080",
+            "subscribed": ["sports"],
+            "channels": ["SMS"]
+        },
+        {
+            "id": "3",
+            "name": "Luis Guadalupe",
+            "email": "luismail@mail.com",
+            "phoneNumber":"3390786755",
+            "subscribed": ["sports", "finance"],
+            "channels": ["EMAIL", "PUSHNOTIFICATIONS"]
+        },
+        {
+            "id": "4",
+            "name": "Saul Antonio",
+            "email": "saul@mail.com",
+            "phoneNumber":"3345887799",
+            "subscribed": ["movies", "finance"],
+            "channels": ["SMS", "EMAIL"]
+        }
+    ]
+}
+
